@@ -4,4 +4,4 @@ problems.
 
 Task I: Developed a chatbot using AIML to guide users through decision-tree logic for career recommendations.<br>
 Task II: Developed a disaster relief robot simulation in CoppeliaSim using real-time obstacle avoidance and object detection.<br>
-Task III: Propose a hypothetical machine learning project using a convolutional neural network to classify crowd-sourced environmental images.
+Task III: Proposed a hypothetical machine learning project using a convolutional neural network to classify crowd-sourced environmental images.
